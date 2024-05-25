@@ -31,6 +31,7 @@ class super_string {
 
 
 int main(){
-    
+    string a = "hola";
+    cout << a;
     return 0;
 }
